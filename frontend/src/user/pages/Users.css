@@ -1,0 +1,23 @@
+.basic{
+    margin: 20px;
+
+}
+.section__title{
+    color: darkgreen;
+}
+.category{
+    display: flex;
+    width: 100%;
+}
+.news{
+    margin: 20px;
+}
+
+@media (max-width: 768px) {
+    .category{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+}
