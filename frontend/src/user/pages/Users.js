@@ -33,19 +33,19 @@ const Users = () => {
         id: 'a1',
         name: 'Cats',
         image: CatPic,
-        places: 1
+        // places: 1
     },
     {
         id: 'a2',
         name: 'Dogs',
         image: DogPic,
-        places: 1
+        // places: 1
     },
     {
         id: 'a0',
         name: 'Others',
         image: OtherPic,
-        places: 0
+        // places: 0
     }];
 
   return (
