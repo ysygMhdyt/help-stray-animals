@@ -1,12 +1,13 @@
 # help-stray-animals
+React.js + Express.js + Node.js + MongoDB
 
-Share stray animals' photos and locations for the convenience of animals rescue.
+Share stray animals' photos and locations for the convenience of animal protection.
 
 ### Features:
-- View home page
+- View the home page
 - Browse animals' photos and locations
 
 After Login:
-- Edit user's own places
-- Delete places with reason for deletion message
+- Edit the user's places
+- Delete places with the reason for deletion message
 - Add new places
