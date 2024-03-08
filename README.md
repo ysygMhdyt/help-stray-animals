@@ -6,11 +6,12 @@ Share stray animals' photos and locations for the convenience of animal protecti
 ### Features:
 - View the home page
 - Browse animals' photos and locations
+- Login with JWT authentication
 
 After Login:
+- Add new places and upload a photo
 - Edit the user's places
 - Delete places with the reason for deletion message
-- Add new places
 
 ### Sample Pages:
 ![image](https://github.com/ysygMhdyt/help-stray-animals/assets/102852961/bc7c40e1-ac57-4505-b941-b7a965ce7b47)
